@@ -1,4 +1,4 @@
-#Get Face-AOIs
+# Get Face-AOIs
 
 Analyses a video to get coordinates and timestamps of a given number of faces. Then allows you to combine this information with raw Tobii eye-tracker output (can be adapted to work for eye-trackers).
 
@@ -14,7 +14,7 @@ where:
 
 This will also create a video output, drawing boxes around the AOIs on the original video, to demonstrate the coordinates and timecourse.
 
-#Combine with eye-tracking output
+# Combine with eye-tracking output
 
 Second, combine the output from the AOI analysis with the raw eyetracker data with 'combine.py'.
 
