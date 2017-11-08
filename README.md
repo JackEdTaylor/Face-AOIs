@@ -1,6 +1,6 @@
 # Get Face-AOIs
 
-Analyses a video to get coordinates and timestamps of a given number of faces. Then allows you to combine this information with raw Tobii eye-tracker output (can be adapted to work for eye-trackers).
+Analyses a video to get coordinates and timestamps of a given number of faces. Then allows you to combine this information with raw Tobii eye-tracker output (can be adapted to work for other eye-trackers).
 
 First, run the video file through 'analyse_vid_faces.py', such as with:
 
